@@ -1,0 +1,2 @@
+# cgo-lab
+Test cgo
